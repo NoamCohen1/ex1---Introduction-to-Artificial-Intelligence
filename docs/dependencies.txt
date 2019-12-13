@@ -1,0 +1,18 @@
+# lines begin with # are comments.
+# I took part of the code from Ram's git
+
+# `pip` for pip-installable libraries. `dir` otherwise
+# example line:
+pip matplotlib
+dir matplotlib.pyplot
+dir sys
+dir math
+dir heapq
+dir collections
+dir random
+dir csv
+dir timeit
+
+#another example:
+#dir aima
+
